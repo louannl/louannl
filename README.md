@@ -19,6 +19,7 @@ Any help or feedback will be gratefully appreciated!
 ### 🌱 I’m currently learning ...
 A lot! Even if I've already made a project with a certain framework or language, there is still much more to learn about it!
 - NodeJS 
+- Python
 - React
 - React Frameworks
 - CSS Frameworks (Tailwind)
@@ -26,7 +27,6 @@ A lot! Even if I've already made a project with a certain framework or language,
 ### 🤔 My next learning ideas ...
 Of course this may change in the future:
 - Golang 
-
 I love the Documentation and the idea of using a different concept (concurrency rather than asyncronous)
 - Docker 
 
