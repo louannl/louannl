@@ -44,5 +44,5 @@ Getting proficient at unit-testing and test driven development
 - I play video games, most of the time with friends (co-op, simulators are my favourites)
 
 ### 📫 How to reach me: ...
-- LinkedIn: https://www.linkedin.com/in/louann-loizou/
+- [LinkedIn](https://www.linkedin.com/in/louann-loizou/)
 - Email: louann.loizou@gmail.com
