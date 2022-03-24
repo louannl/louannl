@@ -20,6 +20,8 @@ A lot! Even if I've already made a project with a certain framework or language,
 - React / Redux
 - CSS Frameworks / Tailwind
 - Docker / Orchestration systems (e.g. Kubernetes)
+- Serverless (AWS Lambda)
+- other AWS services generally: API Gateway, EC2 etc.
 
 ### 🤔 My next learning ideas ...
 Of course this may change in the future 🤷:
