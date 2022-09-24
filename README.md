@@ -1,9 +1,9 @@
 ## Hi there 👋 I'm Lou
 I'm currently a full-time Full-Stack software developer @ Veygo UK 🚙 an Insurtech company
 
-### Current Stack
+### Current Work Stack
 - Backend: Python 🐍 (Django/Flask) 
-- Frontend: React
+- Frontend: React | Typescript
 - Other: Docker 🐳 ~ CI/CD (CircleCI) ~ AWS
 
 ### What I use outside of work 
